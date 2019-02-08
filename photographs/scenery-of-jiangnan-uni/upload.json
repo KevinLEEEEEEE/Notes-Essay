@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "000007.jpg",
+    "description": "description",
+    "width": 2000,
+    "height": 1383
+  }, {
+    "filename": "000010.jpg",
+    "description": "description",
+    "width": 1383,
+    "height": 2000
+  }, {
+    "filename": "000018.jpg",
+    "description": "description",
+    "width": 2000,
+    "height": 1383
+  }, {
+    "filename": "000024.jpg",
+    "description": "description",
+    "width": 2000,
+    "height": 1383
+  }, {
+    "filename": "000025.jpg",
+    "description": "description",
+    "width": 2000,
+    "height": 1383
+  }, {
+    "filename": "000033.jpg",
+    "description": "description",
+    "width": 2000,
+    "height": 1383
+  }, {
+    "filename": "000035.jpg",
+    "description": "description",
+    "width": 2000,
+    "height": 1383
+  }
+]
