@@ -175,17 +175,35 @@
 
 [豆瓣：8.1分](https://book.douban.com/subject/26897464/)
 
+### 《谁动了我的奶酪》
+
+作者：斯宾塞·约翰逊
+
+评级：❤
+
+[豆瓣：7.6分](https://book.douban.com/subject/4722180/)
+
+### 《容忍与自由》
+
+作者：胡适
+
+评级：❤❤
+
+[豆瓣：8.6分](https://book.douban.com/subject/26674343/)
+
+### 《哈佛幸福课》
+
+作者：丹尼尔·吉尔伯特
+
+评级：❤
+
+[豆瓣：7.6分](https://book.douban.com/subject/6990052/)
+
 ---
 
 ## Melody
 
-### 至少还有你
-
-演唱：林忆莲 / 杨啟 / 夏瑶 / 肖思齐
-
-[网易云音乐](http://music.163.com/m/song?id=490595324&userid=14617530)
-
-整理中......
+统计中...
 
 ---
 
@@ -241,11 +259,23 @@
 
 [Bilibili](https://www.bilibili.com/bangumi/media/md7452)
 
-## 刀剑神域
+### 刀剑神域
 
 评级：❤❤
 
 [Bilibili](https://www.bilibili.com/bangumi/media/md130412)
+
+### 失落的歌谣
+
+评级：❤
+
+[Bilibili](https://www.bilibili.com/bangumi/play/ep199625)
+
+### 埃罗芒阿老师
+
+评级：❤
+
+[Bilibili](https://www.bilibili.com/bangumi/play/ss5997)
 
 ---
 
@@ -308,3 +338,9 @@
 评级：❤❤
 
 使用体验：能勾起人拍摄欲望的小相机，确实在身边应该有一个类似这样的记录影像的工具呢
+
+### 大蒜叶
+
+评级：❤
+
+使用体验：煲汤也好，炒菜也好，都可以放，吃起来也不错，很万能的调料
