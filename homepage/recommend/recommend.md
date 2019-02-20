@@ -271,8 +271,6 @@
 
 [Bilibili](https://www.bilibili.com/bangumi/play/ep199625)
 
-### 埃罗芒阿老师
-
 评级：❤
 
 [Bilibili](https://www.bilibili.com/bangumi/play/ss5997)
