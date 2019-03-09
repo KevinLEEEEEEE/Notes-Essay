@@ -2,11 +2,11 @@
 
 如下是昨日在群内看到的言论，出自一小有名气的高校教师。
 
-![image](1)
+![1](http://cdn.lucario.cn/blog/informal-essays/thoughts-about-speech/1.jpg?imageView2/0/q/75|imageslim)
 
-![image](2)
+![2](http://cdn.lucario.cn/blog/informal-essays/thoughts-about-speech/2.jpg?imageView2/0/q/75|imageslim)
 
-![image](3)
+![3](http://cdn.lucario.cn/blog/informal-essays/thoughts-about-speech/3.jpg?imageView2/0/q/75|imageslim)
 
 看完这些言论，内心有些许波动，就i据不能平复，决定还是在此谈论我的见解。
 
